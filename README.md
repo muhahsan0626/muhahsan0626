@@ -1,8 +1,8 @@
 <div align="center">
 # Hey, I'm Muhammad Ahsan 👋
 
-### Software Engineer · Bremen, Germany 🇩🇪
-#### Building scalable web systems · MSc Media Informatics @ Universität Bremen
+### Full Stack Software Engineer @ Contact Software GmbH
+#### Building Scalable Web Systems · MSc Digital Media Informatics @ Universität Bremen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhahsan0626/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhahsan0626)
@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack Software Engineer with **3+ years of experience** building production-grade SaaS platforms and enterprise systems. Currently working at **Contact Software GmbH** in Bremen, where I work on large-scale PLM (Product Lifecycle Management) software used by industry leaders.
+I'm a Full Stack Software Engineer with **4+ years of experience** building production-grade SaaS platforms and enterprise systems. Currently working at **Contact Software GmbH** in Bremen, where I work on large-scale PLM software used by industry leaders and pursuing my MSc at Universität Bremen.
 
-- 🔭 Currently working on a **100k–185k line PLM SaaS platform** and pursuing my MSc at Universität Bremen
+- 🔭 Currently working on a **100k–185k line PLM SaaS platform**
 - ⚡ Recently reduced API response times from **~2s → ~0.87s** through backend optimization
 - 🏆 Built event-driven systems on AWS serving **enterprise clients like BMW & AutoNation**
 - 🌍 Open to relocation | English (C1) · German (B1)
@@ -55,33 +55,6 @@ I'm a full-stack Software Engineer with **3+ years of experience** building prod
 
 ---
 
-## 🚀 Featured Projects
-
-### 📄 Dock — API-First Document Generation Platform
-> React · TypeScript · TanStack Query · Python · FastAPI · PostgreSQL · AWS (S3, SQS, Lambda)
-
-An API-first SaaS platform for template-driven document generation (PDF, DOCX, SMS, Email).
-- Reduced manual errors by **80%** and processes **5K+ monthly transactions**
-- Built an admin interface & custom template editor for non-technical users
-- Deployed serverless workflows on AWS Lambda + SQS for async document processing
----
-
-### 🏄 SurfEye — Surf Session Video Platform
-> React.js · Redux Toolkit · Material UI · Stripe · Python · Django · MySQL
-
-A marketplace where surfers browse, preview, and purchase session videos — delivered automatically within 15 minutes.
-- Integrated Stripe & PayPal for seamless payments
-- End-to-end full-stack from data pipeline to responsive UI
----
-
-### 🏗️ Bimroom — BIM Library for Architects & Engineers
-> React.js · Material UI · Algolia · Node.js · Express.js · MongoDB
-
-A search-optimized 3D asset library used by architects and engineers worldwide.
-- Reduced content discovery time by **60%** using Algolia-powered search
-- Built features for browsing, previewing, and downloading 3D assets at scale
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -104,6 +77,6 @@ A search-optimized 3D asset library used by architects and engineers worldwide.
 ---
 
 <div align="center">
-*Open to opportunities · Based in Bremen, Germany · Happy to relocate*
+*Open to opportunities · Happy to relocate*
 
 </div>
