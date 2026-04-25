@@ -69,8 +69,8 @@ I'm a Full Stack Software Engineer with **4+ years of experience** building prod
 
 | Company | Role | Period |
 |---|---|---|
-| **Contact Software GmbH** 🇩🇪 | Software Engineer | Mar 2025 – Present |
-| **Netsol Technologies Inc** | Software Engineer | Oct 2022 – Dec 2024 |
+| **Contact Software GmbH** 🇩🇪 | Full Stack Software Engineer | Mar 2025 – Present |
+| **Netsol Technologies Inc** | Full Stack Software Engineer | Oct 2022 – Dec 2024 |
 | **Soft Thrive** | Associate Software Engineer | Feb 2022 – Oct 2022 |
 | **Winxware Technologies** | Software Engineer Intern | Oct 2021 – Feb 2022 |
 
