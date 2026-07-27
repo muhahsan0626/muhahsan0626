@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Working Student Full Stack Software Engineer with **4+ years of experience** building production-grade SaaS platforms and enterprise systems. Currently working at **Contact Software GmbH** in Bremen, where I work on large-scale PLM software used by industry leaders and pursuing my MSc at Universität Bremen.
+I'm a Full Stack Software Engineer with **4+ years of experience** building production-grade SaaS platforms and enterprise systems. Currently working at **Contact Software GmbH** in Bremen, where I work on large-scale PLM software used by industry leaders and pursuing my MSc at Universität Bremen.
 
 - 🔭 Working on core modules of a large-scale PLM SaaS platform (scheduling, task boards, project structure)
 - ⚡ Cut key API response times by over 50% through backend and query optimization
@@ -59,7 +59,7 @@ I'm a Working Student Full Stack Software Engineer with **4+ years of experience
 
 | Company | Role | Period |
 |---|---|---|
-| **Contact Software GmbH** 🇩🇪 | Full Stack Software Engineer | Mar 2025 – Present |
+| **Contact Software GmbH** 🇩🇪 | Full Stack Software Engineer (Working Student) | Mar 2025 – Present |
 | **Netsol Technologies Inc** | Full Stack Software Engineer | Oct 2022 – Dec 2024 |
 | **Soft Thrive** | Associate Software Engineer | Feb 2022 – Oct 2022 |
 | **Winxware Technologies** | Software Engineer Intern | Oct 2021 – Feb 2022 |
