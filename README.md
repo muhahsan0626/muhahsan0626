@@ -13,13 +13,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Software Engineer with **4+ years of experience** building production-grade SaaS platforms and enterprise systems. Currently working at **Contact Software GmbH** in Bremen, where I work on large-scale PLM software used by industry leaders and pursuing my MSc at Universität Bremen.
+I'm a Working Student Full Stack Software Engineer with **4+ years of experience** building production-grade SaaS platforms and enterprise systems. Currently working at **Contact Software GmbH** in Bremen, where I work on large-scale PLM software used by industry leaders and pursuing my MSc at Universität Bremen.
 
-- 🔭 Currently working on a **100k–185k line PLM SaaS platform**
-- ⚡ Recently reduced API response times from **~2s → ~0.87s** through backend optimization
-- 🏆 Built event-driven systems on AWS serving **enterprise clients like BMW & AutoNation**
+- 🔭 Working on core modules of a large-scale PLM SaaS platform (scheduling, task boards, project structure)
+- ⚡ Cut key API response times by over 50% through backend and query optimization
+- 🏗️ Designed and shipped event-driven services on AWS for enterprise manufacturing clients
 - 🌍 Open to relocation | English (C1) · German (B1)
-- 🎖️ Rising Star Award & Employee of the Month recipient
+- 🎖️ Recognized internally for engineering impact (Rising Star, Employee of the Month)
 ---
 
 ## 🛠️ Tech Stack
