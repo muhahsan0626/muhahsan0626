@@ -2,7 +2,7 @@
 # Hey, I'm Muhammad Ahsan 👋
 
 ### Full Stack Software Engineer @ Contact Software GmbH
-#### Building Scalable Web Systems · MSc Digital Media Informatics @ Universität Bremen
+#### Building Scalable Web Systems · MSc Media Informatics @ Universität Bremen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhahsan0626/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhahsan0626)
@@ -18,7 +18,6 @@ I'm a Full Stack Software Engineer with **4+ years of experience** building prod
 - 🔭 Working on core modules of a large-scale PLM SaaS platform (scheduling, task boards, project structure)
 - ⚡ Cut key API response times by over 50% through backend and query optimization
 - 🏗️ Designed and shipped event-driven services on AWS for enterprise manufacturing clients
-- 🌍 Open to relocation | English (C1) · German (B1)
 - 🎖️ Recognized internally for engineering impact (Rising Star, Employee of the Month)
 ---
 
@@ -59,7 +58,7 @@ I'm a Full Stack Software Engineer with **4+ years of experience** building prod
 
 | Company | Role | Period |
 |---|---|---|
-| **Contact Software GmbH** 🇩🇪 | Full Stack Software Engineer (Working Student) | Mar 2025 – Present |
+| **Contact Software GmbH** 🇩🇪 | Full Stack Software Engineer | Mar 2025 – Present |
 | **Netsol Technologies Inc** | Full Stack Software Engineer | Oct 2022 – Dec 2024 |
 | **Soft Thrive** | Associate Software Engineer | Feb 2022 – Oct 2022 |
 | **Winxware Technologies** | Software Engineer Intern | Oct 2021 – Feb 2022 |
